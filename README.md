@@ -1,5 +1,6 @@
 # Linear Search and Binary search
-NAME: SAI VISHAL D REF.NO.: 23013576
+NAME: SAI VISHAL D<BR>
+REG.NO: 212223230180
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
